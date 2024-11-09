@@ -1,0 +1,11 @@
+names:
+ 0: Text
+ 1: Figure
+ 2: Title
+ 3: Header
+ 4: Foot
+nc: 5
+path: data
+train: train_set
+val: val_set
+test: test_set
